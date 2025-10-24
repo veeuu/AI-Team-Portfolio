@@ -379,8 +379,8 @@ export const teamData = {
 };
 
 export const teamStats = {
-  totalProjects: 10,
-  yearsExperience: 3,
-  clientsSatisfied: 2,
-  technologiesMastered: 15
+  totalProjects: 20,
+  yearsExperience: 8,
+  clientsSatisfied: 12,
+  technologiesMastered: 25
 };
