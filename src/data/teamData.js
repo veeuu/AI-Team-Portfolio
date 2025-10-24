@@ -8,8 +8,8 @@ export const teamData = {
     email: 'vaishnaviadhao33@gmail.com',
     phone: '+91 8956662057',
     location: 'Pune, Maharashtra, India',
-    linkedin: 'linkedin.com/in/vaishnavi-adhao',
-    github: 'github.com/vaishnavi-adhao',
+    linkedin: 'https://www.linkedin.com/in/vaishnavi-adhao/',
+    github: 'https://github.com/vaishnaviadhao',
     summary: 'I am an AI and Machine Learning expert with 2+ years of experience in analytics, AI solutions, and predictive modeling. I have a strong track record of managing AI and ML projects, optimizing data-driven KPIs, and leveraging Python, SQL, and Excel to drive efficiency. Skilled in TensorFlow, Scikit-Learn, and Hugging Face, I thrive on solving complex challenges and developing innovative AI solutions for business impact.',
     skills: {
       'Machine Learning & AI': ['TensorFlow', 'Scikit-Learn', 'Hugging Face', 'XGBoost', 'Vertex AI', 'RAG', 'LLM Models'],
@@ -80,8 +80,8 @@ export const teamData = {
     email: 'veeekamble@gmail.com',
     phone: '+91 93254 91479',
     location: 'Hadapsar, Pune, Maharashtra',
-    linkedin: 'linkedin.com/in/vidhisha-kamble',
-    github: 'github.com/vidhisha-kamble',
+    linkedin: 'https://www.linkedin.com/in/vidhisha-kamble-435b73213/',
+    github: 'https://github.com/veeuu/',
     summary: 'Computer Science graduate from Modern College, Pune, with a strong foundation in backend development and core computing principles. Proactive, adaptable, and committed to continuous learning. Seeking a full-time role to contribute technical expertise and grow within an innovative team environment.',
     skills: {
       'Programming Languages': ['Python', 'C/C++', 'Java', 'PHP', 'HTML/CSS', 'React', 'JavaScript', 'MySQL', 'PostgreSQL'],
@@ -122,19 +122,19 @@ export const teamData = {
         name: 'Pixel Art Platformer Game (Mario-style)',
         description: 'Working on a 2D pixel art game focusing on character movement, obstacle navigation, and collectible interactions. Designed game elements and animations using Piskel and UI layouts in Figma.',
         tech: ['Unity', 'GameMaker', 'Canva', 'C', 'Piskel', 'Figma'],
-        link: 'https://github.com/vidhisha/pixel-game'
+        link: 'https://github.com/veeuu/2D-PixelGame-MarioStyle'
       },
       {
         name: 'AI Interview Assistant',
         description: 'Built an AI-powered tool to prepare for interviews with features like a dynamic question generator, mock interview setup using TTS and STT, and feedback ratings.',
         tech: ['PHP', 'React', 'Google Gemini', 'SQL'],
-        link: 'https://github.com/vidhisha/ai-interview'
+        link: 'https://github.com/veeuu/AI-Interview-Assistant'
       },
       {
         name: 'AI Study Helper',
         description: 'Developed a tool to upload study documents and generate fill-in-the-blanks, true/false, short-answer, and long-answer questions with answer keys.',
         tech: ['Java', 'React', 'RAG'],
-        link: 'https://github.com/vidhisha/ai-study-helper'
+        link: 'https://github.com/veeuu/AI-Study-Helper'
       }
     ],
     certifications: [
@@ -146,45 +146,58 @@ export const teamData = {
   siddhi: {
     id: 'siddhi',
     name: 'Siddhi Dilip Hadap',
-    role: 'Database Specialist & Data Scientist',
+    role: 'AI Specialist & Data Scientist',
     tagline: 'Turning data into insights, chaos into clarity 📊',
     avatar: '👩‍🔬',
     email: 'siddhihadap7@gmail.com',
     phone: '+91 9022926232',
-    location: 'Pune, Maharashtra',
-    linkedin: 'linkedin.com/in/siddhi-hadap-01314a1a4',
+    location: 'Pune, Maharashtra, India',
+    linkedin: 'www.linkedin.com/in/siddhi-hadap-01314a1a4/',
     github: 'github.com/siddhi-hadap',
-    summary: 'Results-driven Data Science and Data Analyst with more than 2 years of experience in data management and analytics across industries including IT, and manufacturing. Skilled in data preprocessing, MongoDB-based unstructured data storage, and quarterly database maintenance.',
+    summary: 'Results-driven Data Science and Data Analyst with more than 2 years of experience in data management and analytics across IT and manufacturing. Skilled in data preprocessing, MongoDB-based unstructured data storage, quarterly database maintenance, and building ML solutions. Currently leading web-scraping automation using Gemini models, semantic search, vector DBs, and Jina.ai to improve accuracy and speed. Proficient in Power BI and Tableau for actionable dashboards and experienced in anomaly detection and predictive modeling using Python.',
     skills: {
-      'Programming & Data Science': ['Python (Pandas, NumPy, Scikit-learn, Regex)', 'Semantic Search & Vector Databases', 'Web Scraping (BeautifulSoup, Selenium, APIs)'],
-      'Databases': ['MongoDB (Unstructured Data Storage & Management)', 'SQL (Data Querying, Joins, Filtering)'],
-      'Data Visualization & Reporting': ['Power BI (Dashboards, Power Query)', 'Tableau (Visual Analytics, Dashboard Creation)', 'Excel (Pivot Tables, VLOOKUP, Conditional Formatting)'],
-      'Tools & Technologies': ['Gemini API (Google)', 'Jina.ai (Web Scraping)', 'Web Scrapers (Instant Data Scraper, Scrap Similar)', 'LLaMA Models (Open Source LLMs)']
+      'Programming & Data Science': ['Python (Pandas, NumPy, Scikit-learn, Regex)', 'Machine Learning', 'Anomaly Detection', 'Data Preprocessing'],
+      'Web Scraping & Search': ['Web Scraping (BeautifulSoup, Selenium, APIs)', 'Gemini API (Google)', 'Jina.ai', 'Semantic Search', 'Vector Databases'],
+      'Databases': ['MongoDB (Unstructured Data Storage & Management)', 'SQL (Querying, Joins, Filtering)'],
+      'Data Visualization & Reporting': ['Power BI (Dashboards, Power Query)', 'Tableau (Visual Analytics)', 'Excel (Pivot Tables, VLOOKUP)'],
+      'Tools & Platforms': ['LLaMA Models', 'Instant Data Scraper', 'Scrap Similar', 'Git']
     },
     experience: [
       {
         company: 'Pro Plus Data Pvt Ltd',
+        role: 'AI Specialist',
+        duration: 'Jul 2025 - Present',
+        description: 'Designed and deployed AI-driven automation pipelines integrating LLaMA and Gemini models to optimize data processing and quality assurance. Led centralized MongoDB-based AI data systems for scalable unstructured data storage. Implemented intelligent data validation using semantic search and embeddings, improving web-scraped and structured data accuracy by over 90%. Collaborated cross-functionally to integrate AI modules with analytics and visualization systems.'
+      },
+      {
+        company: 'Pro Plus Data Pvt Ltd',
         role: 'Data Science Intern',
-        duration: 'Jan 2025 - Present',
-        description: 'Preprocessed and structured unorganized data for storage and analysis, storing large volumes of unstructured data in MongoDB. Automated web scraping pipelines using Gemini models via API, implemented semantic search using vector databases.'
+        duration: 'Jan 2025 - Jul 2025',
+        description: 'Preprocessed and structured unorganized data for storage and analysis in MongoDB, maintained quarterly database upkeep, and automated web scraping pipelines initially using LLaMA models and later integrated Gemini via API. Implemented semantic search with vector DBs and used Jina.ai to enhance scraping accuracy and response time.'
       },
       {
         company: 'Pro Plus Data Pvt Ltd',
         role: 'Data Analyst',
         duration: 'Aug 2022 - Aug 2023',
-        description: 'Analyzed real-world, technology-driven datasets to uncover and monitor trends across various technological sectors. Developed interactive dashboards and data visualizations in Tableau.'
+        description: 'Analyzed technology-driven datasets to uncover trends and created interactive dashboards in Tableau. Maintained internal data systems using Excel and SQL to ensure data integrity and usability for stakeholders.'
       },
       {
         company: 'Sandvik Coromant Asia Pvt. Ltd.',
         role: 'Data Science Intern',
-        duration: 'Mar 2022 - July 2022',
-        description: 'Collaborated with the Maintenance department to monitor and analyze machine operation data for predictive maintenance improvements. Built and deployed an anomaly detection model using Python.'
+        duration: 'Mar 2022 - Jul 2022',
+        description: 'Worked with Maintenance to monitor machine operation data for predictive maintenance. Developed Power BI dashboards and built an anomaly detection model in Python to identify abnormal machine behavior.'
+      },
+      {
+        company: 'Skills-Enrich',
+        role: 'Data Scientist Intern',
+        duration: 'Aug 2021 - Sep 2021',
+        description: 'Conducted data-driven research and applied core data science techniques to extract insights from diverse datasets supporting business decisions.'
       }
     ],
     education: [
       {
         degree: 'Master of Data Science',
-        institution: 'Dr. D.Y.Patil ACS college',
+        institution: "Dr. D.Y. Patil ACS College",
         duration: '2025',
         grade: 'CGPA: 9.64/10'
       },
@@ -197,14 +210,20 @@ export const teamData = {
     ],
     projects: [
       {
+        name: 'Web Scraping Automation & Validation',
+        description: 'Built automated web-scraping pipelines using LLaMA and Gemini models, integrated semantic search and vector DBs for validation, and used Jina.ai to improve retrieval accuracy and speed.',
+        tech: ['Python', 'Gemini API', 'Jina.ai', 'Vector DBs'],
+        link: '#'
+      },
+      {
         name: 'MongoDB Data Pipeline',
-        description: 'Built scalable data processing pipeline for unstructured data storage and quarterly maintenance',
-        tech: ['MongoDB', 'Python', 'Data Processing'],
+        description: 'Designed scalable data processing pipelines for unstructured data storage and quarterly maintenance workflows.',
+        tech: ['MongoDB', 'Python'],
         link: '#'
       },
       {
         name: 'Predictive Maintenance Dashboard',
-        description: 'Created Power BI dashboard for machine health monitoring and anomaly detection',
+        description: 'Developed Power BI dashboards and an anomaly detection model to monitor machine health and reduce downtime.',
         tech: ['Power BI', 'Python', 'Machine Learning'],
         link: '#'
       }
@@ -225,8 +244,8 @@ export const teamData = {
     email: 'swapniljadhav9137@gmail.com',
     phone: '+91 8329326868',
     location: 'Pune, India',
-    linkedin: 'linkedin.com/in/swapnil-jadhav',
-    github: 'github.com/swapnil-jadhav',
+    linkedin: 'https://www.linkedin.com/in/s-jadhav/',
+    github: 'https://github.com/swapnil-jadhav-2608',
     summary: 'Node.js Backend Developer with 2+ years of experience in backend systems, web scraping, and API integrations. Skilled in building scalable data processing platforms using Node.js, Express.js, MongoDB, MySQL, and AWS. Strong focus on scalability, performance optimization, and real-time data handling.',
     skills: {
       'Backend': ['Node.js', 'Express.js', 'REST APIs', 'JWT', 'OAuth'],
@@ -262,13 +281,13 @@ export const teamData = {
         name: 'CAD Block Viewer',
         description: 'Built a lightweight web app to preview and interact with CAD blocks directly in the browser. Implemented file upload and responsive UI for architects and engineers.',
         tech: ['Node.js', 'Express.js', 'JavaScript'],
-        link: 'https://github.com/swapnil/cad-viewer'
+        link: 'https://github.com/swapnil-jadhav-2608/CAD-Block-Viewer'
       },
       {
         name: 'Data Processing Platform',
         description: 'Architected centralized dashboard platform providing single interface for multiple automation tools',
         tech: ['Node.js', 'MongoDB', 'WebSockets', 'AWS'],
-        link: '#'
+        link: 'https://github.com/swapnil-jadhav-2608/user-feedback-system'
       }
     ],
     certifications: [
@@ -286,8 +305,8 @@ export const teamData = {
     email: 'krishnabirla336@gmail.com',
     phone: '+91 9588620228',
     location: 'Pashan, Pune, Maharashtra',
-    linkedin: 'linkedin.com/in/krishnabirla',
-    github: 'github.com/Krishna9588',
+    linkedin: 'https://www.linkedin.com/in/krishnabirla/',
+    github: 'https://github.com/Krishna9588',
     summary: 'I am passionate about artificial intelligence, machine learning, and backend development. I enjoy working on impactful projects that help me grow and contribute meaningfully. I adapt quickly, collaborate effectively in teams, and communicate confidently.',
     skills: {
       'Languages': ['Python', 'MySQL', 'JavaScript'],
@@ -330,25 +349,25 @@ export const teamData = {
         name: 'Verification Engine',
         description: 'Created an automated engine to verify technology stacks by analyzing web pages and PDF documents, cutting manual effort by 80%. Used Python for web scraping and LLM APIs for contextual analysis.',
         tech: ['Python', 'LLM', 'Selenium', 'Playwright', 'Pandas'],
-        link: 'https://github.com/krishna/verification-engine'
+        link: 'https://github.com/Krishna9588/Verification_Engine'
       },
       {
         name: 'Botnet Detection using ML',
         description: 'Built a machine learning based botnet detection system using Python, Scikit-learn, Random Forest, and network traffic analysis on the CTU-13 dataset.',
         tech: ['Python', 'Pandas', 'Scikit-learn', 'CTU-13 Dataset'],
-        link: 'https://github.com/krishna/botnet-detection'
+        link: 'https://github.com/Krishna9588/Botnet-Detection-using-ML'
       },
       {
         name: 'Marketing Analysis - Case Study',
         description: 'Analyzed two sets of structured sales data to identify the top 3 best-selling products and 10% loyal customers, supporting inventory optimization and customer retention.',
         tech: ['Python', 'Pandas', 'NumPy'],
-        link: 'https://github.com/krishna/marketing-analysis'
+        link: 'https://github.com/Krishna9588/Marketing-Analysis---Case-Study'
       },
       {
         name: 'Intelligent Video-Based Q & A',
         description: 'Built an AI-powered Q&A system using the YouTube API to extract subtitles and store them in a database. Applied NLP to generate 10 key questions and used Llama 3 for accurate answers.',
         tech: ['Python', 'Llama 3', 'Hugging Face', 'SQL'],
-        link: '#'
+        link: 'https://github.com/Krishna9588/AI-Tutor'
       }
     ],
     certifications: [
@@ -360,8 +379,8 @@ export const teamData = {
 };
 
 export const teamStats = {
-  totalProjects: 25,
-  yearsExperience: 12,
-  clientsSatisfied: 50,
-  technologiesMastered: 30
+  totalProjects: 10,
+  yearsExperience: 3,
+  clientsSatisfied: 2,
+  technologiesMastered: 15
 };
